@@ -1,6 +1,6 @@
 ## pdbmd2cd-colab
 
-# PDBMD2CD - Predicting circular dichroism spectra from atomic coordinates using Colab
+# PDBMD2CD-colab - Predicting circular dichroism spectra from atomic coordinates using Colab
 
 This notebook is an Colab implementation of the PDBMD2CD algorithm described here: https://academic.oup.com/nar/article/48/W1/W17/5826170
 
